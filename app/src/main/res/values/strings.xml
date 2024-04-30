@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab</string>
+    <string name="text">Calculator + </string>
+    <string name="text2">Calculator - </string>
+    <string name="hint">Input number</string>
+    <string name="hint1">Input number</string>
+    <string name="Res">Get result</string>
+    <string name="Next">Next window</string>
+    <string name="Prev">Previous window</string>
+</resources>
